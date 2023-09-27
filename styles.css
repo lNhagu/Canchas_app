@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    background-color: grey;
+    color: black;
+}
+nav li {
+    display: inline;
+    margin-right: 20px; /* Espacio entre elementos del menú */
+}
+
+nav a {
+    text-decoration: none;
+    color: #000; /* Cambiar el color del texto (por ejemplo, a negro) */
+    
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 20px auto;
+}
